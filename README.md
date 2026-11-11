@@ -1,10 +1,10 @@
 # 今日の癒し猫 🐱
 
-![今日の猫](https://cdn2.thecatapi.com/images/44r.jpg)
+![今日の猫](https://cdn2.thecatapi.com/images/UYLI_E-SZ.jpg)
 
 **画像情報:**
-- サイズ: 640 x 640
-- 最終更新: 2026-11-10 05:30
+- サイズ: 750 x 500
+- 最終更新: 2026-11-11 04:02
 
 ---
 
